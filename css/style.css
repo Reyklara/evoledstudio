@@ -1,10 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Pinyon+Script&family=WindSong:wght@400;500&display=swap');
+
+
+
 .a1{
     text-align: center;
     background-color: violet;
-    font-family: 'Gill Sans';   
+    font-family: 'WindSong';   
     font-weight: bold;
     font-size: larger;
     font-size: 50;
+    color: darkorchid;
+    
 }
 
 .a4{
@@ -78,15 +84,21 @@ body{
     font-weight: bolder;
 }
 .agd1{
+    color: purple;
     text-align: center;
-    margin-left: 42%;
-    border-radius: 10%;
+    margin-top: 1%;
+    font-size: x-large;
+    font-weight: bolder;
     
     
 }
 .agd2{
+    margin-bottom: 5%;
+    color: purple;
     text-align: center;
-    margin-left: 45%;
+    margin-top: 1%;
+    font-size: x-large;
+    font-weight: bolder;
 }
 .agd3{
     margin-left: 48%;
@@ -104,4 +116,24 @@ body{
 }
 .env{
     margin-left: 48%;
+}
+
+.vi{
+    font-size: 30px;
+    margin-left: 40%;
+}
+
+.img5{
+    width: 40%;
+    float: left;
+   margin-top: 5%;
+   margin-left: 5%;
+   border-radius: 5%;
+}
+.img6{
+    width: 40%;
+    float: left;
+   margin-top: 5%;
+   margin-left: 5%;
+   border-radius: 5%;
 }
